@@ -74,7 +74,6 @@ A full walkthrough video demonstrating all functionality can be found here:
 The video includes:
 - Starting the server
 - Testing all GET, POST, PUT, DELETE routes for users, thoughts, reactions, and friends using Insomnia
-- Verifying database interactions via MongoDB
 
 ## Screenshot
 ![Screenshot 2025-04-21 170632](https://github.com/user-attachments/assets/bafcc135-4529-42e9-8deb-b008adc58f4b)
